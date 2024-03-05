@@ -1,0 +1,11 @@
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+xformers==0.0.24--index-url https://download.pytorch.org/whl/cu118
+accelerate
+einops
+safetensors
+diffusers
+transformers
+omegaconf
+opencv-python
